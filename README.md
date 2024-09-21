@@ -71,7 +71,7 @@
 
 ## 快速上手
 
-> 所有需要修改的地方鱼皮都标记了 `todo`，便于大家找到修改的位置~
+> 所有需要修改的地方都标记了 `todo`，便于大家找到修改的位置~
 
 ### MySQL 数据库
 
@@ -169,7 +169,7 @@ PUT post_v1
 
 ```
 // 指定生成参数
-String packageName = "com.yupi.springbootinit";
+String packageName = "com.yj.springbootinit";
 String dataName = "用户评论";
 String dataKey = "userComment";
 String upperDataKey = "UserComment";
